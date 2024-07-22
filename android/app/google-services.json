@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "613393439991",
+    "firebase_url": "https://cricketworld-c77b4-default-rtdb.firebaseio.com",
+    "project_id": "cricketworld-c77b4",
+    "storage_bucket": "cricketworld-c77b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613393439991:android:1c0e93f32e833019f287f2",
+        "android_client_info": {
+          "package_name": "com.example.cricket_world"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNevw1o10Z5lDSjRkrSu-5fsolzdcACLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

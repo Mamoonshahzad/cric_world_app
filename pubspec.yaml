@@ -1,0 +1,52 @@
+name: cricket_world
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.0-99.1.beta <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get:
+  google_fonts:
+  flutter_svg:
+  video_player: ^2.8.6
+  chewie: ^1.8.1
+  firebase_auth:
+  firebase_core:
+  cloud_firestore:
+  syncfusion_flutter_charts: ^25.1.42+1
+  fl_chart: ^0.67.0
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+flutter:
+
+
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/
+    - assets/images/onboarding_images/
+    - assets/images/auth_images/
+    - assets/images/players_images/
+    - assets/images/teams_flags/
+    - assets/images/icons/
+  #   - images/a_dot_ham.jpeg
+
+ # see https://flutter.dev/custom-fonts/#from-packages
